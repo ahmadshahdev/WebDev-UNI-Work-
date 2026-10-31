@@ -20,8 +20,8 @@ This repository is **only for my university work**. It contains my assignments, 
 
 There are all the assignments I completed during the course.
 
-👉 [Assignment 03 Protfolio](./Assignments/Protfolio/)
-👉 [Assignment 04 Home page](./Assignments/home%20page/)
+- 👉 [Assignment 03 Protfolio](./Assignments/Protfolio/)
+- 👉 [Assignment 04 Home page](./Assignments/home%20page/)
 
 ## ✅ Tasks
 
