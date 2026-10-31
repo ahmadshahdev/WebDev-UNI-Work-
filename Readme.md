@@ -6,10 +6,14 @@ This repository is **only for my university work**. It contains my assignments, 
 
 ---
 
+## Live Link:
+- - 👉 [Live Link](https://ahmadshahdev.github.io/WebDev-UNI-Work-/)
+
 ## 📌 Quick Links
 
 | Section | Description | Link |
 |---------|-------------|------|
+| 🔗 Live Link | All my course assignments, tasks and final prohect | [Go Live](https://ahmadshahdev.github.io/WebDev-UNI-Work-/) |
 | 📝 Assignments | All my course assignments | [Go to Assignments](./Assignments/) |
 | ✅ Tasks | Small tasks and practice work | [Go to Tasks](./Tasks/) |
 | 🚀 Final Project | My final semester project | [Go to Final Project](./Final%20Project/) |
